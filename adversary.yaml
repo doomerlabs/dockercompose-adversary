@@ -1,4 +1,4 @@
-name: adversarylabs/container/docker-compose
+name: container/docker-compose
 version: 0.0.14
 description: Reviews Compose services for privilege, host access, and image reproducibility.
 
